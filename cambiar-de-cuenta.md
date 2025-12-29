@@ -1,4 +1,4 @@
-# Cómo cambiar de cuenta en GitHub Desktop
+# 📘 Cómo cambiar de cuenta en GitHub Desktop
 
 Este mini tutorial explica cómo cerrar sesión y cambiar a otra cuenta en la aplicación de escritorio **GitHub Desktop**.
 
@@ -15,4 +15,4 @@ Este mini tutorial explica cómo cerrar sesión y cambiar a otra cuenta en la ap
 ---
 💡 **Tip adicional:** Si trabajas con varias cuentas, considera usar **SSH keys** y configurar diferentes perfiles en Git para evitar conflictos.
 
-> Última revisión: Miércoles, 03 de Diciembre de 2025
+> Última revisión: Lunes, 29 de Diciembre de 2025
